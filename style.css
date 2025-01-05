@@ -1,0 +1,8 @@
+marquee{
+    border: 50px 100px;
+    border-color: blue;
+    border-radius: 15px;
+    box-sizing: border-box;
+    background-color: blue;
+    size: 5px;
+}
